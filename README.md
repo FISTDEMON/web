@@ -1,5 +1,6 @@
-# web
-Voice-Controlled Web Automation
+
+#Voice-Controlled Web Automation
+
 This project is a Python script that performs web automation tasks using voice commands. It utilizes the Selenium library to control the Chrome browser and perform actions such as searching on Google, browsing Amazon, and accessing information on Wikipedia.
 
 Features
